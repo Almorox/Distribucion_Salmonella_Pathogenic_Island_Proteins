@@ -1,6 +1,6 @@
 # Distribucion_Salmonella_Pathogenic_Island_Proteins
 
-El script permite conocer la distribución de las proteínas que integran las trece Islas de Patogenicidad de Salmonella(Salmonella Pathogenic Islands, SPIs) en diferentes
+El script permite conocer la distribución de las proteínas que integran las trece Islas de Patogenicidad de Salmonella (Salmonella Pathogenic Islands, SPIs) en diferentes
 proteomas pertenecientes a esta bacteria.
 
 Toma como input dos archivos: 
