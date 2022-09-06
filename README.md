@@ -13,7 +13,7 @@ Genera dos carpetas en el directorio del proyecto, una carpeta denominada data d
 - *proteome.fa* : contiene la concatenación de todos los archivos fasta. Es un multifasta para usarlo como subject en el análisis de blast.
 - *Identifiers.tsv*: Es una copia del archivo ncbi_url_file
 - *species_fasta_ID.tsv*: Es un archivo de dos columnas que contiene el nombre de cada especie junto a todos sus fasta_headers (IDs) de su respectivo proteome.fasta descargado.
-- query.fa: es el archivo de query.fa utilizado como entrada, se copia a esta carpeta para que queden almacenadas y registradas las secuencias query utilizadas en el análisis.
+- *query.fa*: es el archivo de query.fa utilizado como entrada, se copia a esta carpeta para que queden almacenadas y registradas las secuencias query utilizadas en el análisis.
 
 Por otro lado los resultados se almacenan en la carpeta results que contiene, tras el análisis,
 los siguientes archivos:
