@@ -1,0 +1,2 @@
+# Distribucion_Salmonella_Pathogenic_Island_Proteins
+Script de bash
